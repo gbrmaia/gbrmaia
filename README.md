@@ -1,4 +1,4 @@
-<h1 align="center">👋 Eai, me chamo Gabriel Maia.</h1>
+<h1 align="center">👋</h1>
  <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gbrmaia&theme=slateorange&show_icons=true&hide_border=true&count_private=true"/>
   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrmaia&theme=slateorange&show_icons=true&hide_border=true&layout=compact"/>
