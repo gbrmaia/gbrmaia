@@ -1,10 +1,10 @@
-<h1 align="center">👋</h1>
- <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gbrmaia&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrmaia&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
-</div>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=gbrmaia&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="status do github">
 
-<h1 align="center">👨‍💻 Algumas tecnologias que tenho estudado. </h1>
+### Olá, meu nome é *Gabriel Maia*!
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<h3 align="center">Eu sou desenvolvedor</h3>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
