@@ -2,11 +2,10 @@
 
 ### Olá, meu nome é *Gabriel Maia*!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=GBRMAIA&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <div align="center">
 <br>
-<h1 align="center">Desenvolvo em</h1>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
